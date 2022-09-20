@@ -649,13 +649,29 @@ form{
 }
 @media (max-width:397px){
 	.main__welcome-title{
-		font-size: 40px;
-		line-height: 45px;
+		font-size: 30px;
+		line-height: 33px;
 	}
 	.main__welcome-text{
 		margin:50px 0 0 0;
-		font-size: 26px;
-		line-height: 33px;
+		font-size: 24px;
+		line-height: 26px;
+	}
+	.quotes__title{
+		font-size: 33px;
+		line-height: 35px;
+	}
+	.quotes__image{
+		width:150px;
+		height:150px;
+	}
+	.quotes__name{
+		font-size: 20px;
+	}
+	.quotes__text{
+		margin:10px 0 0 0;
+		font-size: 20px;
+		line-height: 22px;;	
 	}
 }
 
